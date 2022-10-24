@@ -1,0 +1,19 @@
+.index {
+	padding-top: 3em;
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-position: center, center;
+}
+.main {
+	background-color: #ea9797;
+	color: #000000;
+}
+
+.index-grid {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	margin-bottom: auto;
+}
+#reflist {
+    list-style-type: none;
+}
