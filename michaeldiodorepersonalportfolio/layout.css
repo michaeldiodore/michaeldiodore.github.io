@@ -1,9 +1,18 @@
 #body {
 	grid-auto-rows: auto;
-	padding-top: 3em;
-	background-repeat: no-repeat;
+	padding-top: 3rem;
+	
 	
 }
+#Projects {
+	display: grid;
+	grid-row-start: auto;
+	grid-template-rows: 25%,25%,25%,25% ;
+}
+#Project1 {
+	grid-row-start: ;
+}
+	
 #reflist {
     list-style-type: none;
 }
