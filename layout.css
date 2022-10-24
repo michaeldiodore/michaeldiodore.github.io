@@ -10,9 +10,11 @@
 	grid-template-rows: 25%,25%,25%,25% ;
 }
 #Project1 {
-	grid-row-start: ;
+	grid-row-start:auto;
+	
 }
 	
 #reflist {
     list-style-type: none;
+	text-align: center;
 }
