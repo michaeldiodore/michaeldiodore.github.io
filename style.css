@@ -1,9 +1,12 @@
 * {
-	font-family: "Arial";
+	font-family: "Timesroman";
 	text-align: center;
-	color: rgb(0, 0, 0);
+	
 }
 
+body {
+	background-color: beige;
+}
 #h1 {
 	text-shadow: 2px 2px rgb(254, 254, 254);
 	background-color: blue;
@@ -21,12 +24,17 @@
 #h2 {
 	font-size: 50px;
 	color: blue;
-    background-color: rgb(255, 255, 255);
+    background-color:beige(255, 255, 255);
 
 }
 #h3 {
 	font-size: 35px;
 	color:goldenrod
+}
+
+#h5 {
+	font-size: 25px;
+	color: pink ;
 }
 #navigationbar {
 	font-size: 25px;
